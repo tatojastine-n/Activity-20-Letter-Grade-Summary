@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Letter Grade Summary\bin\Debug\Letter Grade Summary.exe.config
+C:\Users\HP\source\repos\Letter Grade Summary\bin\Debug\Letter Grade Summary.exe
+C:\Users\HP\source\repos\Letter Grade Summary\bin\Debug\Letter Grade Summary.pdb
+C:\Users\HP\source\repos\Letter Grade Summary\obj\Debug\Letter Grade Summary.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Letter Grade Summary\obj\Debug\Letter Grade Summary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Letter Grade Summary\obj\Debug\Letter Grade Summary.exe
+C:\Users\HP\source\repos\Letter Grade Summary\obj\Debug\Letter Grade Summary.pdb
